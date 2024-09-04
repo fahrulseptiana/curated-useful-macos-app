@@ -41,3 +41,9 @@ System resource info on stats bar
 https://github.com/AppHouseKitchen/AlDente-Charge-Limiter
 
 Limit your battery charging cycle
+
+----
+
+https://github.com/dwarvesf/hidden
+
+Hide your icons on menubar
