@@ -47,3 +47,9 @@ Limit your battery charging cycle
 https://github.com/dwarvesf/hidden
 
 Hide your icons on menubar
+
+----
+
+https://github.com/iina/iina
+
+IINA Media Player - Fork of VLC
